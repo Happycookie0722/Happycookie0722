@@ -34,9 +34,9 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tromxx&exclude_repo=tromxx.github.io&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tromxx&exclude_repo=Happycookie0722.github.io&layout=compact&theme=tokyonight"/>
    <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=tromxx&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Happycookie0722&show_icons=true">
 </div>
 <!--
 **Happycookie0722/Happycookie0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
