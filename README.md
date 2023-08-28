@@ -24,13 +24,13 @@
    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
    <br/>
    <br/>
-   <p>🎨 SNS & Portfolio 🎨</p>
+<!--    <p>🎨 SNS & Portfolio 🎨</p>
    <a href="">
       <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
    </a>
    <a href="mailto:lovein6114@nate.com">
       <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-   </a>
+   </a> -->
 
 </div>
 <br/>
